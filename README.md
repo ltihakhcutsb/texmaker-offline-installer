@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Texmaker Free Installer** — Texmaker is a free, cross-platform LaTeX editor with a built-in PDF viewer, structure view, spell checking, and a wizard for inserting common LaTeX environments. Works without internet access, no account required. Full offline installation.
+**💻 Texmaker Free Installer** — Texmaker is a free, cross-platform LaTeX editor featuring an integrated PDF viewer, syntax highlighting, spell checking, code completion, and a structure navigator. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Texmaker
 
-Texmaker is a free, cross-platform LaTeX editor with a built-in PDF viewer, structure view, spell checking, and a wizard for inserting common LaTeX environments. A clean, accessible alternative to TeXstudio for LaTeX document preparation.
+Texmaker is a free, cross-platform LaTeX editor featuring an integrated PDF viewer, syntax highlighting, spell checking, code completion, and a structure navigator. Supporting Unicode, Texmaker handles multilingual documents and includes a built-in quick build system for compiling LaTeX documents. Its clean interface and comprehensive feature set make it a popular choice for academics writing in LaTeX.
 
 ---
 
 ## ❌ Problem: Texmaker is hard to access
 
-- **LaTeX Distribution Required** — Needs separate TeX Live or MiKTeX installation
-- **LaTeX Learning Curve** — Markup-based document preparation differs from WYSIWYG editors
-- **No Real-Time Preview** — Documents compile to PDF rather than live preview
-- **Competition** — TeXstudio has more features; VS Code with LaTeX Workshop is increasingly popular
+- **LaTeX Prerequisite** — Requires LaTeX distribution installed separately
+- **Learning Curve** — LaTeX syntax requires significant learning investment
+- **Compilation Errors** — Error diagnosis in LaTeX can be challenging for beginners
+- **Limited Extension** — Less extensible than VS Code with LaTeX plugins
 
 ---
 
@@ -121,7 +121,7 @@ Texmaker is a free, cross-platform LaTeX editor with a built-in PDF viewer, stru
 
 ---
 
-**Texmaker Free Installer** — Texmaker is a free, cross-platform LaTeX editor with a built-in PDF viewer, structure view, spell checking, and a wizard for inserting common LaTeX environments. Install without internet connection today!
+**Texmaker Free Installer** — Texmaker is a free, cross-platform LaTeX editor featuring an integrated PDF viewer, syntax highlighting, spell checking, code completion, and a structure navigator. Install without internet connection today!
 
 <div align="center">
 
